@@ -2,6 +2,7 @@ package model;
 
 public class Urun {
 
+    private int sayi;
     private int id;
     private String urunIsmi;
     private String uretici;
