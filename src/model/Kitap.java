@@ -44,8 +44,6 @@ public class Kitap {
                 ", sayfaSayisi=" + sayfaSayisi +
                 '}';
 
-        //aliden not
-
 
         
     }
