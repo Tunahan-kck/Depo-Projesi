@@ -1,7 +1,7 @@
 package model;
 
 public class Urun {
-
+    private String name;
     private int id;
     private String urunIsmi;
     private String uretici;
