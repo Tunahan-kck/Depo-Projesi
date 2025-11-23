@@ -43,5 +43,10 @@ public class Kitap {
                 ", yazar='" + yazar + '\'' +
                 ", sayfaSayisi=" + sayfaSayisi +
                 '}';
+
+        //aliden not
+
+
+        
     }
 }
